@@ -9,6 +9,22 @@ This project demonstrates an object detection system built using the OpenCV libr
 
 - Object Classification: Determines the category of each detected object (e.g., car, truck, bicycle, etc.).
 
+## How to Run
+### Prerequisites
+Ensure you have Python and Visual Studio Code installed. Then, install the necessary libraries using the following commands:
+
+<pre><code>
+pip install opencv-python
+pip install matplotlib
+</code></pre>
+
+### Running the Code
+
+1. Clone or download the project files to your local machine.
+
+2. Open the project folder in Visual Studio Code.
+
+3. Run the main script (typically main.py or Object_Detection.ipynb).
 
 ## Results
 - Image Object Detection
